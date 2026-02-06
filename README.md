@@ -1,1 +1,1 @@
-# golang-notes
+# go-notes
