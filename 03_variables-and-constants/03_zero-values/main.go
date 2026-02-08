@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// when variables are declared without initialization they are given a defualt value(zero value)
 	var i int     // zero value is 0
 	var j float64 // zero value is 0.0
 	var b bool    // zero value is false
